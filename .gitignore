@@ -1,0 +1,7 @@
+# Ignorar arquivos e diretórios específicos em todas as pastas
+.vscode/
+.editorconfig
+*/package.json
+*/package-lock.json
+*/node_modules/
+*/.env
